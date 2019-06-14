@@ -1,0 +1,479 @@
+openproject
+sudo -i 
+openproject reconfigure
+sudo openproject reconfigure
+sudo apt-get --purge remove postgresql
+openproject reconfigure
+sudo openproject reconfigure
+sudo apt-get --purge remove postgresql
+dpkg -l | grep postgres
+sudo apt-get --purge remove postgresql postgresql-doc postgresql-common
+openproject reconfigure
+sudo openproject reconfigure
+ip r
+sudo openproject reconfigure
+ip r
+openproject reconfigure
+sudo openprojectreconfigure
+sudo openproject reconfigure
+sudo service apache2 restart
+sudo service openproject restart
+openproject restart
+sudo openproject restart
+man openproject
+openproject --help
+sudo openproject --help
+sudo -i
+sudo apt update
+sudo apt install software-properties-common apt-transport-https wget
+wget -q https://packagecloud.io/AtomEditor/atom/gpgkey -O- | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main"
+sudo apt install atom
+ps aux | grep -i apt
+kill -9 2404
+sudo kill -9 2404
+sudo kill -9 2408
+sudo kill -9 3205
+sudo apt install atom
+ps aux | grep -i apt
+sudo kill -9 18435
+sudo -i
+sudo killall apt apt-get
+sudo -i
+vi config.py
+vim config.py
+sudo apt install vim
+vim config.py
+sudo -i
+ls
+cd Documents/
+ls
+cd ..
+cd Downloads/
+ls
+ll
+cd ..
+python3
+ll
+cd Templates/
+l
+ll
+cd ..
+ll
+ls
+sudo -i
+python manage.py runnserver
+conda create --name Snowflakes django
+python3
+conda
+cd /
+ls
+mkdir djangogirls
+sudo -i
+python3 -m venv Snowflakes
+python3 -m venv myvenv
+cd ..
+python3 -m venv myvenv
+sudo -i
+cd ..
+source Snowflakes/bin/activate
+sudo -i
+source Snowflakes/bin/activate
+python manage.py runserver
+sudo -i
+cd ..
+cd /
+conda create --name Snowflakes django
+conda activate Snowflakes
+cd media/
+cd awesomeamit/
+cd 42D20539D20532A9/
+cd 100CANON/
+cd django\ forms/
+cd django_level_2/
+cd pro2/
+python manage.py runserver
+pip install sqlparse
+python manage.py runserver
+ll
+cd django_level_2/
+cd pro2/
+python manage.py runserver
+activate Snowflakes
+python manage.py runserver
+bash Miniconda2-4.6.14-Linux-x86_64.sh
+cd Resident\ Evil\ 2/
+activate Snowflakes
+sudo apt-get remove atom
+sudo apt updatesudo apt install software-properties-common apt-transport-https wget
+sudo apt update
+sudo apt install software-properties-common apt-transport-https wget
+wget -q https://packagecloud.io/AtomEditor/atom/gpgkey -O- | sudo apt-key add -
+sudo add-apt-repository "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main"
+sudo apt install atom
+sudo -i
+ll
+sudo -i
+cd ..
+ll
+cd ..
+ll
+sudo chmod 777 100CANON/
+ll
+sudo chmod 777 100CANON/
+ll
+mkdir ll
+fsck -n -f
+sudo fsck -n -f
+sudo mount -o rw,remount /
+mkdir tt
+cd tt/
+vi make.txt
+vi make.txt 
+rm make.txt 
+mount -o rw,remount /
+sudo 
+mount -o rw,remount /
+activate Snowflakes
+sudo atom
+sudo chmod -R 777 ~/.atom
+sudo atom
+history
+sudo atom
+sudo -i
+activate Snowflakes
+conda activate Snowflakes
+cd level5/
+django-admin startproject learning_users
+django
+apt install python-django-common
+django-admin startproject learning_users
+conda activate Snowflakes
+cd level5/
+django-admin startproject learning_users
+cd learning_users/
+django-admin startapp basic_app
+python manage.py migrate
+python manage.py makemigrations
+python manage.py makemigrations basic_app
+pip install bcrypt
+pip install django[argon2]
+pip install pillow
+python manage.py migrate
+python manage.py makemigrations
+python manage.py makemigrations basic_app
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+python manage.py makemigrations
+python manage.py runserver
+sudo atom
+cd level5/
+cd learning_users/
+ll
+python manage.py runserver
+python -m pip install 'python-language-server[all]'
+python manage.py runserver
+connda activate Snowfflakes
+conda activate Snowfflakes
+conda activate Snowflakes
+python manage.py runserver
+conda activate Snowflakes
+python manage.py runserver
+cd level5/
+cd learning_users/
+python manage.py runserver
+python manage.py createsupuperuser
+python manage.py createsuperuser
+python manage.py runserver
+cd ..
+cd advanced\ section/
+django-admin startproject advcbv
+vi notes.txt
+sudo atom
+cd level5/
+ll
+cd learning_users/
+ll
+python manage.py runserver
+conda activate Snowflakes
+python manage.py runserver
+cd advanced\ section/
+cd advcbv/
+django-admin startapp basic_app
+conda activate Snowflakes
+django-admin startapp basic_app
+python manage.py migrate
+python manage.py makemigrations
+python manage.py makemigrations basic_app
+python manage.py runserver
+python manage.py runserver 0:8001
+python manage.py runserver
+cd advanced\ section/
+cd advcbv/
+python manage.py runserver
+conda activate Snowflakes
+python manage.py runserver
+cd advanced\ section/
+python manage.py runserver
+cd advcbv/
+conda activate Snowfla
+conda activate Snowflakes
+python manage.py runserver
+python manage.py migrate
+python manage.py makemigrations
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+cd ..
+cd level5/
+cd learning_users/
+python manage.py runserver
+cd ..
+cd advanced\ section/
+cd advcbv/
+python manage.py runserver
+echo *
+ls /
+ls /bin
+ls -lh
+ls -lt
+ls -lrt
+man ls
+ls -l
+ls -lr
+ls -lrt
+ls -lhrt
+ls -m
+cat > abc.txt
+vi abc.txt 
+cat > abc.txt
+cat abc.txt 
+cat > abc1.txt
+cat abc.txt abc1.txt > new.txt
+cat new.txt 
+history
+clear
+vi ~/.bash_history
+ll
+tree Desktop/
+sudo apt install tree
+tree Desktop/
+tree Videos/
+tree Templates/
+who
+hostnamectl
+hostnamectl set-hostname awesomeamit
+hostnamectl
+conda activate Snowflakes
+ll
+ifconfig
+sudo apt install net-tools
+ifconfig
+ssh john@192.168.0.255
+ssh john@192.168.0.114
+ifconfig
+ssh john@192.168.0.106
+ssh amit@192.168.0.106
+tty
+ssh amit@192.168.0.106
+ssh john@192.168.0.106
+su -i
+su -i john
+su - john
+su -john
+su - john
+locate john
+ssh john@192.168.0.114
+locate cp
+man locate
+man which
+cal 2019
+cal 2020
+cal 03 1998
+cal 12 1998
+date
+date -D
+date -a
+date -u
+date + "%T"
+date +"%T"
+date +%d
+date "+%d%m%H%M%Y"
+vi test.sh
+time test.sh
+test.sh
+chmod 777 test.sh
+test.sh
+time test.sh
+vi test.sh
+time
+vi test.sh
+time test.sh
+vi test.sh
+ll
+ls test.sh 
+ll test.sh 
+time test.sh
+vi test.sh
+./test.sh 
+time ./test.sh
+cal
+locate cal
+cd /var/lib/app-info/icons/ubuntu-bionic-universe/64x64/plasma-workspace_office-calendar.png
+cd /var/
+ls
+cd ..
+ll
+man echo
+vi fruits.txt
+sort fruits.txt 
+vi fruits.txt
+sort fruits.txt 
+sort -u fruits.txt 
+vi fruits.txt
+sort -u fruits.txt 
+vi num.txt
+sort -n num.txt 
+sort -rn num.txt 
+vi fruits.txt 
+sort fruits.txt 
+uniq fruits.txt 
+sort fruits.txt | uniq
+top
+cat top > logs.txt 
+htop
+top
+top -b -n 3 > file.txt
+vi file.txt 
+rm file.txt 
+top -b -n 1>file.txt
+top -b -n 1 > file.txt
+vi file.txt 
+sort file.txt 
+sort file.txt | uniq
+ps -ef
+ps -ef|more
+ps -ef|sort|uniq
+clear
+ps -eL
+ps -eLF
+sl
+;s
+ls
+echo hello
+ls -lhrt > filename.txt
+vi filename.txt 
+ls -l filename.txt 
+chmod 777 filename.txt 
+ls -l filename.txt 
+echo hello >> filename.txt 
+vi filename.txt 
+echo "hello" >&3
+vi mylog.txt 
+jq
+sudo snap install jq
+jq
+echo "hi" > amit.txt
+echo "amit jena" >> amit.txt 
+echo amit.txt 
+cat amit.txt 
+ls -lt|head -10
+ls -lr|less
+ls -lr|uniq
+ls -lr
+ls -lR
+ls -lR|less
+ls -lR|uniq
+clear
+curl http://api.icndb.com/jokes/random/3
+sudo apt install curl
+curl http://api.icndb.com/jokes/random/3
+man curl
+curl -s http://api.icndb.com/jokes/random/3 |jq
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[0]'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[0].joke'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[1].joke'
+joke=$( curl -s http://api.icndb.com/jokes/random/3 |jq '.value[1].joke')
+echo $joke
+man awk
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[1].joke'
+curl -s http://api.icndb.com/jokes/random/3 |jq 
+curl -s http://api.icndb.com/jokes/random/3 |jq '.id'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value.id'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[].id'
+curl -s http://api.icndb.com/jokes/random/3 |jq '.value[].joke'
+grep -c "Grapes" fruits.txt 
+grep "Grapes" fruits.txt 
+grep -E -w 'grapes|orange' fruits.txt 
+grep -E -w 'Grapes|orange' fruits.txt 
+grep -E -w 'Grapes|Orange' fruits.txt 
+grep -i "grapes" fruits.txt 
+grep -i "orange" fruits.txt 
+grep -i "amit" *
+clear
+grep -ir "grapes" *
+grep -irv "grapes" *
+grep -irv "Grapes" fruits.txt 
+nm fruits.txt 
+nm a.out
+nm ./a.out
+nm
+nm a.out
+nm fruits.txt 
+man nm
+man awk
+sudo ethtool
+apt-get ethtool
+apt-get install ethtool
+sudo apt-get install ethtool
+sudo ethtool ens33
+sudo ethtool | grep speed
+sudo ethtool
+sudo ethtool ens33
+sudo ethtool ens33 | grep speed
+ifconfig
+sudo ethtool enp1s0
+sudo ethtool enp1s0 | grep speed
+sudo ethtool enp1s0
+sudo ethtool enp1s0 | grep speed
+sudo ethtool enp1s0 | grep Speed
+sudo ethtool enp1s0 | grep Duplex
+grep "Orange" fruits.txt 
+ls -lhrt 
+ls -lhrt | grep -i "fruits.txt"
+ls -lhrt | grep -i "frui"
+grep -ri "amit" *
+grep -rih "amit" *
+grep -rih "Orange" *
+grep -ri "Orange" *
+temp=$(grep -ri "Orange" fruits.txt) 
+echo $ temp
+echo temp
+temp=$(grep -ri "Orange" fruits.txt) 
+echo $temp
+echo $ temp
+echo $temp
+temp
+echo $temp
+vi fruits.txt 
+grep -ri grapes fruits.txt 
+grep -riw grapes fruits.txt 
+grep -E orange|grapes fruits.txt 
+grep -E Orange|Grapes fruits.txt 
+grep -E "Orange|Grapes" fruits.txt 
+cat /proc/info
+history 
+
+cat history 
+cat history > shellscripts.txt 
+grep -i "curl" history
+history
+cat history -w > shellscripts.txt 
+man cat
+cat f history
+~/.bash_history
+sudo -i
